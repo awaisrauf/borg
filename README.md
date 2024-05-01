@@ -60,7 +60,7 @@ We employ two projection methods to transform images from a 4D to a 2D format.
 
 ## 🚆Training
 
-This dataset can be used directly with detection to train detection models.
+This dataset can be used directly with [mmdetection](https://github.com/open-mmlab/mmdetection) to train detection models.
 
 ## 📜 Citation
 ```bibtex
