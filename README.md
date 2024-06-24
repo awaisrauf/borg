@@ -3,13 +3,12 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="BOrg">
 </p>
 
-#### [Mehaboobathunnisa Sahul Hameed]()`*` , [Muhammad Awais](https://awaisrauf.github.io/)`*`, [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer]()
+#### [Muhammad Awais](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer]()
 
 #### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) and Weizmann Institute of Science
 
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)]() [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]() [![video](https://img.shields.io/badge/Video-Presentation-F9D371)]()
 
-`*` refers to equal contribution
 
 <p align="center">
   <img src="imgs/overview.png" alt="Image 1" width="90%">
