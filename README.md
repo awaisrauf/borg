@@ -3,7 +3,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="BOrg">
 </p>
 
-#### [Muhammad Awais](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer]()
+#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer]()
 
 #### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) and Weizmann Institute of Science
 
