@@ -3,15 +3,15 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="BOrg">
 </p>
 
-#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/)
+#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), [Rao Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/), [Greg Slabaugh](https://www.qmul.ac.uk/eecs/people/profiles/slabaughgreg.html)
 
-#### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) and Weizmann Institute of Science
+#### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Weizmann Institute of Science, Queen Marry University of London (QMUL)
 
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/awaisrauf/borg) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2406.19556) [![video](https://img.shields.io/badge/Video-Presentation-F9D371)]()
 
 
 <p align="center">
-  <img src="imgs/overview_v2.png" alt="Image 1" width="90%">
+  <img src="imgs/overview_v2.png" alt="Image 1" width="70%">
   <!-- <img src="imgs/example3.png" alt="Image 3" width="30%"> -->
 </p>
 
@@ -47,11 +47,11 @@ We employ two projection methods to transform images from a 4D to a 2D format.
 <table>
     <tr>
         <td>
-            <img  src="imgs/mean_projection.png"  alt="Image 1">
+            <img  src="imgs/mean_projection.png"  alt="Image 1" width="80%>
             <p align="center"> </p>
         </td>
         <td>
-            <img src="imgs/max_projection.png" alt="Image 2">
+            <img src="imgs/max_projection.png" alt="Image 2" width="80%>
             <p align="center"> </p>
         </td>
     </tr>
