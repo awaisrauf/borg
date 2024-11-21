@@ -3,7 +3,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="BOrg">
 </p>
 
-#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer]()
+#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), and [Rao Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/)
 
 #### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) and Weizmann Institute of Science
 
@@ -12,13 +12,13 @@
 
 <p align="center">
   <img src="imgs/overview_v2.png" alt="Image 1" width="90%">
-  <!-- <img src="imgs/example2.png" alt="Image 2" width="30%">
-  <img src="imgs/example3.png" alt="Image 3" width="30%"> -->
+  <!-- <img src="imgs/example3.png" alt="Image 3" width="30%"> -->
 </p>
 
 
 ## 📢 Latest Updates
 
+- **Nov, 2024**: Dataset is released.
 - **June, 2024**: Arxiv paper released.  
 
 ---
