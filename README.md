@@ -7,11 +7,11 @@
 
 #### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) and Weizmann Institute of Science
 
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)]() [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]() [![video](https://img.shields.io/badge/Video-Presentation-F9D371)]()
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/awaisrauf/borg) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2406.19556) [![video](https://img.shields.io/badge/Video-Presentation-F9D371)]()
 
 
 <p align="center">
-  <img src="imgs/overview.png" alt="Image 1" width="90%">
+  <img src="imgs/overview_v2.png" alt="Image 1" width="90%">
   <!-- <img src="imgs/example2.png" alt="Image 2" width="30%">
   <img src="imgs/example3.png" alt="Image 3" width="30%"> -->
 </p>
@@ -19,7 +19,7 @@
 
 ## 📢 Latest Updates
 
-- **May-01-24**: 
+- **June, 2024**: Arxiv paper released.  
 
 ---
 
@@ -62,13 +62,12 @@ We employ two projection methods to transform images from a 4D to a 2D format.
 This dataset can be used directly with [mmdetection](https://github.com/open-mmlab/mmdetection) to train detection models.
 
 ## 📜 Citation
+
 ```bibtex
-@misc{awais2024BOrg,
-      title={BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases}, 
-      author={Mehaboobathunnisa Sahul Hameed and Muhammad Awais and Bidisha Bhattacharya and Orly Reiner and Rao Anwer},
-      year={2024},
-      eprint={},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-} 
+@article{awais2024borg,
+  title   = {BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases},
+  author  = {Muhammad Awais and Mehaboobathunnisa Sahul Hameed and Bidisha Bhattacharya and Orly Reiner and Rao Muhammad Anwer},
+  year    = {2024},
+  journal = {arXiv preprint arXiv: 2406.19556}
+}
 ```
