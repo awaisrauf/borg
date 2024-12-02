@@ -3,7 +3,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="BOrg">
 </p>
 
-#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), [Rao Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/), [Greg Slabaugh](https://www.qmul.ac.uk/eecs/people/profiles/slabaughgreg.html)
+#### [Awais Rauf](https://awaisrauf.github.io/), [Mehaboobathunnisa Sahul Hameed]() , [Bidisha Bhattacharya](), [Orly Reiner](), [Greg Slabaugh](https://www.qmul.ac.uk/eecs/people/profiles/slabaughgreg.html), [Rao Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/)
 
 #### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Weizmann Institute of Science, Queen Marry University of London (QMUL)
 
